@@ -4,11 +4,14 @@ body{
     background: #ffffff;
 }
 
-#site-header{
-    background: #ffffff;
+/*header*/
+.navbar-default{
+    background-color: #ffffff;
 }
 #site-content{
-    background:#cccccc;
+    background:#ffffff;
+    border-radius:5px;
+    border: 1px solid #cccccc;
 }
 #site-menu{
 
