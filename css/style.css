@@ -1,22 +1,23 @@
-body{
-    padding-left:20%;
+body {
+    padding-left: 20%;
     padding-right: 20%;
     background: #ffffff;
 }
 
+
 /*header*/
-.navbar-default{
+
+.navbar-default {
     background-color: #ffffff;
 }
-#site-content{
-    background:#ffffff;
-    border-radius:5px;
+
+#site-content {
+    background: #ffffff;
+    border-radius: 5px;
     border: 1px solid #cccccc;
-    padding:15px;
+    padding: 15px;
 }
-#site-menu{
 
-}
-#site-menu a{
+#site-menu {}
 
-}
+#site-menu a {}
