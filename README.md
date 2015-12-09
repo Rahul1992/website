@@ -1,1 +1,1 @@
-# website powered angular.js
+# website powered by angular.js
