@@ -1,1 +1,1 @@
-#  Powered by angular.js
+#  Powered by angular.js 1.x
