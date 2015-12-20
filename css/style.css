@@ -30,3 +30,6 @@ body p{
 section {
     text-align: justify;
 }
+img {
+    padding-left: 200px;
+}
