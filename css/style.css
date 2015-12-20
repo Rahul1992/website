@@ -27,3 +27,6 @@ body p{
     background-color: #ffffff;
     color: #000000;
 }
+section {
+    text-align: justify;
+}
