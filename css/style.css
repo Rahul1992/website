@@ -17,3 +17,13 @@ body {
     border: 1px solid #cccccc;
     padding: 15px;
 }
+
+body p{
+    font-family:'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 20px;
+    background-color: #ffffff;
+    color: #000000;
+}
