@@ -18,8 +18,8 @@ body {
     padding: 15px;
 }
 
-body p{
-    font-family:'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+body p {
+    font-family: 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
     font-size: 14px;
     font-style: normal;
     font-variant: normal;
@@ -27,9 +27,11 @@ body p{
     background-color: #ffffff;
     color: #000000;
 }
+
 section {
     text-align: justify;
 }
-img {
-    padding-left: 200px;
+/*profile pic*/
+.profile {
+border-radius: 127px;
 }
