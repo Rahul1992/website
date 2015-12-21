@@ -13,8 +13,8 @@ body {
 
 #site-content {
     background: #ffffff;
-    border-radius: 5px;
-    border: 1px solid #cccccc;
+    /*border-radius: 5px;
+    border: 1px solid #cccccc;*/
     padding: 15px;
 }
 
@@ -33,7 +33,7 @@ section {
 }
 /*profile pic*/
 .profile {
-border-radius: 127px;
+border-radius: 135px;
 width: 40%;
 height: 40%;
 float: right;
