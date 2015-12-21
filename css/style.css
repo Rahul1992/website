@@ -34,4 +34,7 @@ section {
 /*profile pic*/
 .profile {
 border-radius: 127px;
+width: 40%;
+height: 40%;
+float: right;
 }
