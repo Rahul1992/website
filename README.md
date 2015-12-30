@@ -1,2 +1,3 @@
-# e-resume
-Powered by angular.js 1.x
+# Portfolio
+##Powered by angular.js 1.x
+##Used angular-ui routes.
