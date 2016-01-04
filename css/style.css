@@ -18,7 +18,9 @@ body {
     padding: 15px;
 }
 
+
 /*all text styling*/
+
 body p {
     font-family: 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
     font-size: 14px;
@@ -29,13 +31,27 @@ body p {
     color: #000000;
 }
 
+body h1,
+h2 {
+    font-family: 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+body h2 {
+    font-size: 16px;
+}
+
 section {
     text-align: justify;
 }
+
+
 /*profile pic*/
+
 .profile {
-border-radius: 135px;
-width: 40%;
-height: 40%;
-float: right;
+    border-radius: 135px;
+    width: 40%;
+    height: 40%;
+    float: right;
 }
