@@ -20,6 +20,10 @@ app.config(function( $stateProvider, $urlRouterProvider) {
     .state('site.work',{
         url:'/work',
         templateUrl:'partials/work.html'
+    })
+    .state('site.education',{
+        url:'/education',
+        templateUrl:'partials/education.html'
     });
     $urlRouterProvider.otherwise('/site/home');
 });
